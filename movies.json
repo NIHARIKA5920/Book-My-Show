@@ -1,0 +1,32 @@
+[
+    {
+    "id":"1",
+    "image":"https://m.media-amazon.com/images/I/61I5a0n6d4S._AC_SL1500_.jpg",
+    "title":"Bell Bottom",
+    "actor":"Akshay Kumar"
+},
+{
+    "id":"2",
+    "image":"https://m.media-amazon.com/images/I/61I5a0n6d4S._AC_SL1500_.jpg",
+    "title":"shershah",
+    "actor":"kiara"
+},
+{
+    "id":"3",
+    "image":"https://m.media-amazon.com/images/I/61I5a0n6d4S._AC_SL1500_.jpg",
+    "title":"Sultan",
+    "actor":"Salman khan"
+},
+{
+    "id":"4",
+    "image":"https://m.media-amazon.com/images/I/61I5a0n6d4S._AC_SL1500_.jpg",
+    "title":"Thappad",
+    "actor":"Tapse pannu"
+},
+{
+    "id":"5",
+    "image":"https://m.media-amazon.com/images/I/61I5a0n6d4S._AC_SL1500_.jpg",
+    "title":"Bell",
+    "actor":"vaani"
+}
+]
